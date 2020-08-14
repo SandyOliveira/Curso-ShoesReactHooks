@@ -1,0 +1,12 @@
+Lidando com Rotas
+>> yarn add react-router-dom
+
+Estilos globais
+
+>> yarn add styled-components
+
+LIdando com Icons
+>> yarn add react-icons
+
+Lidando com cores dentro do javaScrip*escurece,clareia*
+>>yarn add polished
