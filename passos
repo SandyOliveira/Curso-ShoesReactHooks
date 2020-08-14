@@ -10,3 +10,7 @@ LIdando com Icons
 
 Lidando com cores dentro do javaScrip*escurece,clareia*
 >>yarn add polished
+
+Lidando com API
+*simulando uma api*
+>> yarn global add json-server
