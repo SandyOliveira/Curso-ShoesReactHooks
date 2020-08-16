@@ -21,3 +21,25 @@ lidarcmapi
 
 Start no servidor
 >> json-server server.json -p 3333
+
+///////////////// Apaguei o arquivo q tinho isso aq
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+//////////////////////////////////////////
