@@ -14,3 +14,10 @@ Lidando com cores dentro do javaScrip*escurece,clareia*
 Lidando com API
 *simulando uma api*
 >> yarn global add json-server
+
+Intalando Axios
+lidarcmapi
+>> yarn add axios
+
+Start no servidor
+>> json-server server.json -p 3333
