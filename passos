@@ -52,3 +52,7 @@ Lidando com Redux
 Reactotron + Redux
 
 >> yarn add reactotron-react-js reactotron-redux
+
+Instalar Immer pra lidar com o conceito de imutabilidade.
+No immer cria-se um rascunho e depois salva no *baseState
+>> yarn add immer
