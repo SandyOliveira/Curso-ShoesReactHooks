@@ -1,10 +1,15 @@
-export function addToCart(product) {
+export function addToCartRequest(id) {
   return {
-    type: '@cart/ADD',
+    type: '@cart/ADD_REQUEST',
+    id,
+  };
+}
+export function addToCartSucces(product) {
+  return {
+    type: '@cart/ADD_SUCCES',
     product,
   };
 }
-
 export function removeFromCart(id) {
   return { type: '@cart/REMOVE', id };
 }

@@ -56,3 +56,13 @@ Reactotron + Redux
 Instalar Immer pra lidar com o conceito de imutabilidade.
 No immer cria-se um rascunho e depois salva no *baseState
 >> yarn add immer
+
+
+Dependencia Redux Saga
+ajuda a buscar mais detalhes relacionado ao produto, por exemplo o peso...
+
+>> yarn add redux-saga
+
+Reactotron + Saga
+
+>> yarn add reactotron-redux-saga
