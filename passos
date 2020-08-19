@@ -60,9 +60,17 @@ No immer cria-se um rascunho e depois salva no *baseState
 
 Dependencia Redux Saga
 ajuda a buscar mais detalhes relacionado ao produto, por exemplo o peso...
-
+O Redux saga ajuda a fazer verificação asyncronas, verificação em API, chamadas a Api,
+BD antes de uma informação ser alterada no reducer...
 >> yarn add redux-saga
 
 Reactotron + Saga
 
 >> yarn add reactotron-redux-saga
+
+bibliote para exibir mensagem de erro ao usuario
+>> yarn add react-toastify
+
+
+Navegando na Saga
+>> yarn add history
