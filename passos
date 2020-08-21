@@ -74,3 +74,6 @@ bibliote para exibir mensagem de erro ao usuario
 
 Navegando na Saga
 >> yarn add history
+
+CONTINUANDO COM HOOKS
+>> yarn add eslint-plugin-react-hooks -D
